@@ -1,0 +1,37 @@
+{
+    "explorer.confirmDelete": false,
+    "terminal.integrated.windowsEnableConpty": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "python.languageServer": "Microsoft",
+    "C_Cpp.updateChannel": "Insiders",
+    "jupyter.askForKernelRestart": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "python.showStartPage": false,
+    "editor.quickSuggestions": {
+        "comments": true
+    },
+    "git.ignoreLegacyWarning": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]"
+    ],
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+    "markdown-pdf.breaks": true,
+    "terminal.integrated.tabs.enabled": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    }
+}
