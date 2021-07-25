@@ -1,23 +1,26 @@
 {
-    "explorer.confirmDelete": false,
-    "terminal.integrated.windowsEnableConpty": false,
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.jediEnabled": false,
-    "workbench.iconTheme": "vscode-icons",
-    "python.languageServer": "Microsoft",
     "C_Cpp.updateChannel": "Insiders",
-    "jupyter.askForKernelRestart": false,
-    "workbench.editorAssociations": {
-        "*.ipynb": "jupyter-notebook"
-    },
-    "python.showStartPage": false,
     "editor.quickSuggestions": {
         "comments": true
     },
+    "editor.suggestSelection": "first",
+    "explorer.confirmDelete": false,
     "git.ignoreLegacyWarning": true,
+    "jupyter.askForKernelRestart": false,
+    "markdown-pdf.breaks": true,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.jediEnabled": false,
+    "python.languageServer": "Microsoft",
+    "python.showStartPage": false,
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.copyOnSelection": true,
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.tabs.enabled": false,
+    "terminal.integrated.windowsEnableConpty": false,
     "todo-tree.general.tags": [
         "BUG",
         "HACK",
@@ -28,10 +31,9 @@
         "[x]"
     ],
     "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
-    "markdown-pdf.breaks": true,
-    "terminal.integrated.tabs.enabled": false,
-    "notebook.cellToolbarLocation": {
-        "default": "right",
-        "jupyter-notebook": "left"
-    }
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.iconTheme": "vscode-icons"
 }

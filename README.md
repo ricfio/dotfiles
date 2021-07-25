@@ -6,20 +6,20 @@ My dotfiles.
 
 ## vscode
 
-### vscode dotfiles pull
+### Backup vscode dotfiles
 
-Pull the vscode dotfiles from Windows:
+#### Backup vscode dotfiles on Windows
 
 ```powershell
 cd .\vscode\windows\
-.\pull.ps1
+.\backup.ps1
 ```
 
-### vscode dotfiles push
+### Restore vscode dotfiles
 
-Push vscode dotfiles into Windows:
+#### Restore vscode dotfiles on Windows
 
 ```powershell
 cd .\vscode\windows\
-.\push.ps1
+.\restore.ps1
 ```
