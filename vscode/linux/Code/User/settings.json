@@ -1,0 +1,39 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.quickSuggestions": {
+        "comments": true
+    },
+    "editor.suggestSelection": "first",
+    "explorer.confirmDelete": false,
+    "git.ignoreLegacyWarning": true,
+    "jupyter.askForKernelRestart": false,
+    "markdown-pdf.breaks": true,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.jediEnabled": false,
+    "python.languageServer": "Microsoft",
+    "python.showStartPage": false,
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.tabs.enabled": false,
+    "terminal.integrated.windowsEnableConpty": false,
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]"
+    ],
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.iconTheme": "vscode-icons"
+}

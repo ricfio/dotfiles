@@ -8,6 +8,13 @@ My dotfiles.
 
 ### Backup vscode dotfiles
 
+#### Backup vscode dotfiles on Linux
+
+```bash
+cd ./vscode/linux/
+./backup.sh
+```
+
 #### Backup vscode dotfiles on Windows
 
 ```powershell
@@ -16,6 +23,13 @@ cd .\vscode\windows\
 ```
 
 ### Restore vscode dotfiles
+
+#### Restore vscode dotfiles on Linux
+
+```bash
+cd ./vscode/linux/
+./restore.sh
+```
 
 #### Restore vscode dotfiles on Windows
 
