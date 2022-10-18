@@ -1,5 +1,13 @@
-mkdir -p ./vscode/Code/User/
-cp $HOME/.config/Code/User/settings.json ./vscode/Code/User/settings.json
+#!/bin/bash
+BACKUP_HOME=`pwd`
 
-mkdir -p ./vscode/Extensions
-code --list-extensions --show-versions > ./vscode/Extensions/extensions-list
+echo -e "===> BACKUP dotfiles\n"
+echo $BACKUP_HOME
+
+echo "- vscode > settings"
+mkdir -p $BACKUP_HOME/home/.vscode-server/data/Machine
+cd $_ && cp $HOME/.vscode-server/data/Machine/settings.json .
+
+echo "- vscode > extensions"
+mkdir -p $BACKUP_HOME/home/.vscode-server
+cd $_ && code --list-extensions --show-versions | sed '1d' > extensions.txt

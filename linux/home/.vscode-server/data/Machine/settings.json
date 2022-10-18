@@ -1,0 +1,21 @@
+{
+    "php.suggest.basic": false,
+    "php.validate.executablePath": "/usr/bin/php",
+    "editor.quickSuggestions": {
+        "comments": true
+    },
+    "intelephense.files.exclude": [
+        "**/.git/**",
+        "**/.svn/**",
+        "**/.hg/**",
+        "**/CVS/**",
+        "**/.DS_Store/**",
+        "**/node_modules/**",
+        "**/bower_components/**",
+        "**/vendor/**/{Tests,tests}/**/*Test.php",
+        "**/.history/**",
+        "**/vendor/**/vendor/**"
+    ],
+    "debug.allowBreakpointsEverywhere": true,
+    "php-cs-fixer.executablePath": "${workspaceFolder}/vendor/bin/php-cs-fixer",
+}
