@@ -1,39 +1,40 @@
 # dotfiles
 
+This repository includes my dotfiles and scripts used for backup and restore.  
+
 > You don't really know someone until you look at his dotfiles.
 
-My dotfiles.
+- [X] vscode > settings
+- [X] vscode > extentsions
 
-## vscode
+## Linux hosts
 
-### Backup vscode dotfiles
-
-#### Backup vscode dotfiles on Linux
+### Backup dotfiles on Linux hosts
 
 ```bash
-cd ./vscode/linux/
+cd ./linux/
 ./backup.sh
 ```
 
-#### Backup vscode dotfiles on Windows
-
-```powershell
-cd .\vscode\windows\
-.\backup.ps1
-```
-
-### Restore vscode dotfiles
-
-#### Restore vscode dotfiles on Linux
+### Restore dotfiles on Linux hosts
 
 ```bash
-cd ./vscode/linux/
+cd ./linux/
 ./restore.sh
 ```
 
-#### Restore vscode dotfiles on Windows
+## Windows hosts
+
+### Backup dotfiles on Windows hosts
 
 ```powershell
-cd .\vscode\windows\
+cd .\windows\
+.\backup.ps1
+```
+
+### Restore dotfiles on Windows hosts
+
+```powershell
+cd .\windows\
 .\restore.ps1
 ```
