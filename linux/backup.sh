@@ -1,8 +1,13 @@
 #!/bin/bash
 BACKUP_HOME=`pwd`
+mkdir -p $BACKUP_HOME
 
 echo -e "===> BACKUP dotfiles\n"
 echo $BACKUP_HOME
+
+echo "- .gitconfig"
+mkdir -p $BACKUP_HOME/home
+cd $_ && cp $HOME/.gitconfig .
 
 echo "- vscode > settings"
 mkdir -p $BACKUP_HOME/home/.vscode-server/data/Machine

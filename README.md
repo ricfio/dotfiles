@@ -4,6 +4,7 @@ This repository includes my dotfiles and scripts used for backup and restore.
 
 > You don't really know someone until you look at his dotfiles.
 
+- [X] .gitconfig
 - [X] vscode > settings
 - [X] vscode > extentsions
 
