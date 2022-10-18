@@ -1,5 +1,7 @@
-New-Item -ItemType Directory -Force -Path .\vscode\Code\User\
-Copy-Item $env:APPDATA\Code\User\settings.json .\vscode\Code\User\settings.json
+# vscode > settings
+New-Item -ItemType Directory -Force -Path .\home\Code\User\
+Copy-Item $env:APPDATA\Code\User\settings.json .\home\Code\User\settings.json
 
-New-Item -ItemType Directory -Force -Path .\vscode\Extensions
-code --list-extensions --show-versions > .\vscode\Extensions\extensions-list
+# vscode > extensions
+New-Item -ItemType Directory -Force -Path .\home\Code\
+code --list-extensions --show-versions > .\home\Code\extensions.txt

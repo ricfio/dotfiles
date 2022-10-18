@@ -1,5 +1,7 @@
-Copy-Item .\vscode\Code\User\settings.json $env:APPDATA\Code\User\settings.json
+# vscode > settings
+Copy-Item .\home\Code\User\settings.json $env:APPDATA\Code\User\settings.json
 
-foreach($extension in Get-Content .\vscode\Extensions\extensions-list) {
+# vscode > extensions
+foreach($extension in Get-Content .\home\Code\extensions-list) {
     code --install-extension $extension
 }
