@@ -1,0 +1,11 @@
+[user]
+	name = Riccardo Fiorenza
+	email = ricfio.professional@gmail.com
+[color]
+	ui = auto
+[core]
+	autocrlf = false
+[credential]
+	helper = cache --timeout=3600
+[init]
+	defaultBranch = main

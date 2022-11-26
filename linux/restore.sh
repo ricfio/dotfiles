@@ -9,9 +9,12 @@ echo "- .gitconfig"
 cd $BACKUP_HOME/home
 cp .gitconfig $HOME/.gitconfig
 
-echo "- vscode > settings"
-cd $BACKUP_HOME/home/.vscode-server/data/Machine
-cp settings.json $HOME/.vscode-server/data/Machine/settings.json
+if [ -d "$HOME/.vscode-server/data/Machine" ];
+then
+    echo "- vscode > settings"
+    cd $BACKUP_HOME/home/.vscode-server/data/Machine
+    cp settings.json $HOME/.vscode-server/data/Machine/settings.json
+fi
 
 echo "- vscode > extensions"
 while read extension; do
