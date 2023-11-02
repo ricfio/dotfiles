@@ -42,11 +42,57 @@
         "**/.factorypath": true
     },
     "python.languageServer": "Default",
-    "php-cs-fixer.lastDownload": 1665582545543,
+    "php-cs-fixer.lastDownload": 1697802371244,
     "bracket-pair-colorizer-2.depreciation-notice": false,
     "editor.unicodeHighlight.nonBasicASCII": false,
-    "diffEditor.ignoreTrimWhitespace": false,
-    "window.zoomLevel": 1,
     "git.suggestSmartCommit": false,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "avdmanager.sdkPath": "/home/ricfio/Android/Sdk",
+    "tabnine.experimentalAutoImports": true,
+    "chatgpt.sessionToken": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..CnnJLgBDF5LbIqQK.HjUFD1XaPxkGcsnHST0XVCXH1CRzGkolsl7Aa3Dzc86Ceh2__TNcTFl-7ZljN1DOoH8Gvgx1powTfHkJOJPkg0fgd_xCOBR6J2ec9UTzVnTOeyjCNA7UgMN8HZCUEVjB-d5TEH-LW5xMqP-vbadJ4F05B5xOTnO587sXWeliMim6WMEiF_u3CNVPshuO5Je4-YvbnhATw8qDqoRMp0Y9uXau3E2Rp6mDZP2630L8ISCC3Fv0n0f3BPRQt3qN-s5bdkzg3R7xId_NOqjpjjNFmGLPzPbwpgKe1idKFGduML9G-0G_sg9jW9T-et_ckmInitchYlPeupx0vL3zeUtAMF0VUgAJtkVqAQWHzmb4Sl25OaMmkrtR5uncov8EWYnG599ZxYn_of8JwWG2BWAbhcQvJHVwvtTjA9nWEd3F5NRbJhq8_xR6t7Icl3e1FFSUKynYLE-FQG1tp4i17Nxzz6yt1_ve5fkxBTOVJK71HAzEWGk2JW-OopjPfe36audYtexGTK5uJcODAoRrk9F9VDF7KV-J8LDtCni_MQruV4SllBoIieJLQztY37vr9iXDDp9tfAh5GArQEihDm16cTBib4OWnl37rCQ50U-caHigu9R3PkZsb5BhVm8a6iB1dMyhuhT00hcghSavhfhtvJFTuqTiW0q-VIbizaT9teCIuCW3vzssRPod6bRUcmj1x7_5EsIlaVNm-qA6v-9igwUkUPt1UlfUMdTmmg55ufkrB496rc16EaGkrpo6s3-ZcJL2xxrN-D90oVrzZTPhxC5xI6lk2MJWWiIUYM5Z1WLlUVtdC1a0xvlySk9ATjusE-5CNPd3bF19S9JVGcpENdQNu0dmvVCcXJve5I4MVhVH0jnXyFAcR-0MEnR6e8RQSnZRNUY7W7fDpSJ37XOnt2JZSAw8i8BLPD7CZfoxocgEcRDkagTdI9NkOLjrffm5bIRUUhF96srGcTS5EggJvH9fYfkhRZVpECpoqjw_BoVHm2GfmronNhU1H0WX7BhKXYJD7e-NuLkjVSd9-IpjR_Z7Ks6z9ujP9kLee5Bh2lkzHBD_02tfYEWbQyDocuYYOHktBBlZKsB3ckjwsfTfB6X82COTJsDdpVhHpoHRF67XQ0FGVJ4FSZ6-18Jwi7Vs0cNdF_p_h6jHEs2JFI9F_J38andyOi8UaR1jp76iMz3j0xSNjyBsMpvWIQfw8yXfJ4fp9WUK1DbMXS_NZB4hN_qETTl4umnHKj_d_YHffQmeP_BA3F4LZvviGF3fXOonSZCmvUdZhXnX08TBZ866aJiH7BVm3srg4mF0K4mzo7ZOUgro0zkaLkgE444s5sbxP_cLYnSPb9tTOZ4kIo0zCWRoQDfndiB8pWbser4-r8weeCbmmaMv6cdxBj_ZlEkk-uEA5p23WVynxJ2yuJp5nh8dzkRR_4G2ZMzHTMLyfjuL6daT4mFfQH6hGAbeBxU7Jj-bodKQ5djru3MilD8JjvwVA_hOqTuZYuyMpirl72gS1cMqgd6HP-bAYMEYnqdGgSl1EHyxiBdFD5SG4iLiiOuhiWfa6psab3-FkWaNzCWCbNyuYMW8fVp41sse1CSuYbnrNkWGgIm6lZRQ35JnOxShEploCb9ZShwdZ3kfaqQpKKA0Gc0ctAoorUp8Iy7ck_RJMaOS40k6VniwCOs2n1IxoRNrn1vTm7hURSlpWmbAQnZiSPZFQgeejO-bhZTaFD77T6FaS8P_e6iHwoxw8-TmcihY6feYfImw9mi9Rh-TteyzTdnZC8W9OWBXYtSru-39JTJ11oMJZ1n2cecpB6LpZ6DLsSDDv-GyBLiy4546T4KmXTriQ5a9hHnX_Dzmj3NLdtTQd8UoZvk_7rfGE3XjLBFakC7oNU2vJOA4P2IVTcIsBlNfc3RX6fBR6gdQc_AVMIgQOI6hj_4iRhgOLrDRIdHYFdIsAQhxGxRZKAKImUZw0f3OOxxMFIVicEgzPDIvjmHHaNe1Ii0IqAn47Nd6-wqWLarMXEkSO4m2iRGbITFAuNLo-olLUPQgMwCe7qI0DlwlW9A-bsMuIIpk61EbOxLwtJK0JpXjKlEnOCuXKWaC1G18Y40NvsYWFNojsydUfxwX2_MOnRo-JE3YiibNwCOqL0cvUbN_VgdCp-X_3njCABiyLk0F6hiKLQMXMt1-bdVP2JWsG1orK_i2BrQJcAHJz-yoYUT4qwn2bmU0-LdbiQgNM415DR7-6R1aLr5bj8uwrQbjlOoRaoPCef6yGYliGkddazGBLnVL5KFa3eVQ5mCT19GSkTXfmbpRqFeaXjQ.qWAFY4y2Jqvwd5a6LTu5Fw",
+    "chatgpt.clearanceToken": "7cUSgI5AXvBhhaExDMJews4OH5_v5w1NNURK5qlr4SE-1672738629-0-1-7a4f1115.76a964f1.429a5cff-160",
+    "chatgpt.userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "chatgpt.chromiumPath": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "codegpt.apiKey": "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",
+    "codegpt.maxTokens": 2500,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.multiCursorLimit": 25000,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "remote.SSH.remotePlatform": {
+        "adscribeenterprise": "linux",
+        "dev/sindacaweb01": "linux",
+        "stage/adscribeenterprise": "linux",
+        "dev/d4d": "linux"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "Glavin001.unibeautify-vscode"
+    },
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": 2
 }
